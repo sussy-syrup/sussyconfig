@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 1,
+  "id": "sussyconfig",
+  "version": "1.0.0",
+
+  "name": "Sussy Config",
+  "description": "provides a config system",
+  "authors": [
+    "Sussy_Syrup"
+  ],
+  "contact": {
+    "homepage": "",
+    "sources": ""
+  },
+
+  "license": "",
+  "icon": "assets/sussyconfig/icon.png",
+
+  "environment": "*",
+  "entrypoints": {
+  },
+  "mixins": [
+  ],
+
+  "depends": {
+    "fabricloader": ">=0.13.3",
+    "fabric": "*",
+    "minecraft": "1.18.x",
+    "java": ">=17"
+  },
+  "suggests": {
+  }
+}
